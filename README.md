@@ -1,5 +1,5 @@
 # MLLearning
-# this is like creating a new model where it predicts a student gets his placement or not 
+Here we are creating a new model where it predicts a student gets his placement or not 
 we used the dataset from the kaggle
 90 10 train test split
 model used LogisticRegression
